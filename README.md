@@ -1,4 +1,4 @@
-# 📘 Portfolio Website – “How to Help Teenagers Take a Break from Their Phones, in order to read”
+# 📘 Mobile App – “How to Help Teenagers Take a Break from Their Phones, in order to read”
 
 This is a lightweight, and elegant personal portfolio website built with **HTML, CSS, JavaScript, PHP, and MySQL**, from scratch.
 
